@@ -3,6 +3,9 @@
 Blender add-on helpful while learning computer graphics, compatible with dedicated set of instructions.
 
 
+![P_6_edited](https://user-images.githubusercontent.com/74016088/128056296-8ccec6ff-d0b4-41aa-ac5c-c883a7450a62.png)
+
+
 Some features:
 
 MESH ANALYSIS (holes in the mesh)
@@ -28,7 +31,7 @@ RENDERING(auto-lighting)
 
 ![I_13_edited](https://user-images.githubusercontent.com/74016088/128056011-4df652d5-665c-4eac-b4ea-defd54b74e9d.png)
 
-DENOISING
+RENDERING(denoising)
 
 ![I_9_edited](https://user-images.githubusercontent.com/74016088/128056039-90c24343-dda6-43e9-af6c-47fa7bd04ec3.png)
 
